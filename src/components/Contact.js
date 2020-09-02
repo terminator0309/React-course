@@ -179,7 +179,7 @@ class Contact extends Component {
                       required: "Required ",
                       minLength: "Must be greater than 2 numbers ",
                       maxLength: "Must be 15 numbers or less ",
-                      isNumber: "Numst be a number",
+                      isNumber: "Must be a number",
                     }}
                   />
                 </Col>
