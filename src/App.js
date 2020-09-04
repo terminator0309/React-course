@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Main from "./components/Main";
-import { DISHES } from "./shared/dishes";
 import { BrowserRouter } from "react-router-dom";
 import "./App.css";
 import { Provider } from "react-redux";
