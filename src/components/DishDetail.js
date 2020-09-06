@@ -220,11 +220,11 @@ const DishDetail = (props) => {
         </div>
       </div>
     );
-  } else if (props.errMess) {
+  } else if (props.errmess) {
     return (
       <div className="container">
         <div className="row">
-          <h4>{props.errMess}</h4>
+          <h4>{props.errmess}</h4>
         </div>
       </div>
     );

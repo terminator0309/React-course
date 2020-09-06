@@ -1,15 +1,12 @@
-import React, { Component } from "react";
+import React from "react";
 import {
   Card,
   CardImg,
   CardImgOverlay,
-  CardText,
-  CardBody,
   CardTitle,
   Breadcrumb,
   BreadcrumbItem,
 } from "reactstrap";
-import DishDetail from "./DishDetail";
 import { Link } from "react-router-dom";
 import { Loading } from "./Loading";
 import { baseUrl } from "../shared/baseUrl";

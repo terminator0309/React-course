@@ -1,4 +1,3 @@
-import { COMMENTS } from "../shared/comments";
 import * as ActionTypes from "./ActionTypes";
 
 //This is a reducer.
